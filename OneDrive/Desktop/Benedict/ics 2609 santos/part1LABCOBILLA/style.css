@@ -1,0 +1,64 @@
+body{
+	background-color:white;
+}
+h1{
+	color:white;
+	font-family:"Times New Roman", Times, serif;			/*intro*/
+	text-align:center;
+	font-size: auto;
+	border: 10px solid black;
+	padding: 20px; 
+	background-color:black;
+}
+.menus{
+    text-align: center;
+        color:#ff9933;
+        font-family:"Times New Roman", Times, serif;			/*Homepage*/
+        font-size: large;
+}
+video{
+   
+    border: 0px solid black;
+}
+.missionvision{
+    color:rgb(7, 0, 0);
+    text-align: center;
+}
+body {
+    background-image: url("bg.jpg");
+    background-color: #cccccc;
+   }
+
+.mission{
+    font-size: larger;
+    color: white;
+    background-color:black;
+    text-align: center;
+}
+.vission{
+    font-size: larger;
+    color: white;
+    background-color:black;
+    text-align: center;
+}
+#Homepage{
+    color:yellow;
+}#Mission{
+    color:yellow;
+}#funko{
+    color:yellow;}
+#pvc{
+    color:yellow;
+}
+#resin{
+    color: yellow;
+}
+#location{
+    color:yellow;
+}
+.BUTTON{
+    color: yellow;
+}
+b{
+    color:white;
+}
